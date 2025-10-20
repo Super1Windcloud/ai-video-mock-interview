@@ -5,10 +5,8 @@
 
  
 ## <a name="introduction">🤖 介绍</a>
-使用 Next.js 构建前端和后端逻辑，Firebase 处理认证和数据存储，使用 TailwindCSS 进行样式，并集成 Vapi 的语音代理。该项目旨在帮助你学习如何将 AI 模型集成到应用中，提供流畅的求职面试准备体验。
-
-如果你是新手或遇到问题，可以加入我们活跃的 Discord 社区（超过 50k+ 成员），那里有很多人可以互相帮助。
-
+使用 Next.js 构建前端和后端逻辑，Firebase 处理认证和数据存储，使用 TailwindCSS 进行样式，并集成 Vapi 的语音代理。 
+ 
  
 ## <a name="tech-stack">⚙️ 技术栈</a>
 
